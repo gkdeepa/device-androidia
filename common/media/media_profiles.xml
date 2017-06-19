@@ -453,9 +453,9 @@
         minChannels="1" maxChannels="1" />
 
     <AudioEncoderCap name="aac" enabled="true"
-        minBitRate="5525" maxBitRate="250000"
-        minSampleRate="8000" maxSampleRate="44100"
-        minChannels="1" maxChannels="1" />
+        minBitRate="32000" maxBitRate="320000"
+        minSampleRate="8000" maxSampleRate="48000"
+        minChannels="1" maxChannels="2" />
 
     <!--
         FIXME:
